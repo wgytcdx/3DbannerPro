@@ -1,4 +1,4 @@
-# 3DbannerPro
+# 3DbannerPro（3D效果）
 ## 鼠标进行移动或者滑过，图片随之呈现3D立体效果或者称之为AppleTV视差效果
 # 示例：
   
